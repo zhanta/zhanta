@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhanta
-- 👀 I’m interested in programming and their other stuffs.(I'm not programmer!)
+- 👀 I’m interested in programming and their other stuffs.
 - 🌱 I’m currently learning linux, data science, machine learning, neural networks, web programming and other things that includes to IT world!
 - 📫 How to reach me Gmail: zhantoreyesen@gmail.com VK: https://www.vk.com/zickit01
 
