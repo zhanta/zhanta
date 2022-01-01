@@ -9,7 +9,7 @@
 [<img align="left" alt="zhanta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[gihub]: https://github.com/zhanta
+[github]: https://github.com/zhanta
 [youtube]: https://www.youtube.com/channel/UCHmYAq2avlakNOav9Na4m2g
 [twitter]: https://twitter.com/bachozhan
 [vk]: https://www.vk.com/zickit01
