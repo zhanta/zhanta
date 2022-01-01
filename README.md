@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @zhanta
 - 👀 I’m interested in programming and their other stuffs.
 - 🌱 I’m currently learning linux, data science, machine learning, neural networks, web programming and other things that includes to IT world!
-- 📫 How to reach me Gmail: zhantoreyesen@gmail.com VK: [<img align:"left" alt="zhanta | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vkontakte.svg" />][vk]
+- 📫 How to reach me Gmail: zhantoreyesen@gmail.com VK: 
 
 ### Connect with me:
+[<img align="left" alt="zhanta | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vkontakte.svg" />][vk]
 [<img align="left" alt="zhanta" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="zhanta | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="zhanta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
