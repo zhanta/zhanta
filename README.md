@@ -4,7 +4,14 @@
 - 📫 How to reach me Gmail: zhantoreyesen@gmail.com VK: https://www.vk.com/zickit01
 
 ### Connect with me:
-[<img align="left" alt="zhanta" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="zhanta" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+[<img align="left" alt="zhanta | Youtube" width="22px" src="https://cdn.jsdevir.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="zhanta | Twitter" width="22px" src="https://cdn.jsdevir.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+[gihub]: https://github.com/zhanta
+[youtube]: https://www.youtube.com/channel/UCHmYAq2avlakNOav9Na4m2g
+[twitter]: https://twitter.com/bachozhan
 
 <!---
 zhanta/zhanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
