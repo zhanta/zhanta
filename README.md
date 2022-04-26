@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhanta and I'm student.
 - 👀 I’m interested in programming and their other stuffs.
-- 🌱 I’m currently learning linux, data science, machine learning, neural networks, web programming and other things that includes to IT world!
+- 🌱 I’m currently learning linux, web programming, Backend Development!
 - 📫 How to reach me Gmail: zhantoreyesen@gmail.com VK: [vk]
 
 ### Connect with me:
