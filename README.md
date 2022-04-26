@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @zhanta and I'm student.
 - 👀 I’m interested in programming and their other stuffs.
+- :computer: I haven't commercial development experience. I have experience with Spring, Nodejs.
+- :rainbow: I'm interested in the direction of Backend and DevOps.
 - 🌱 I’m currently learning linux, web programming, Backend Development!
 - 📫 How to reach me Gmail: zhantoreyesen@gmail.com VK: [vk]
 
